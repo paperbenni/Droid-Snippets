@@ -102,19 +102,4 @@ snippet gh
 	GetHeight()
 snippet gpos
 	GetPosition()
-snippet gty
-	GetType()
-snippet gvis
-	GetVisibility()
-snippet gwi
-	GetWidth()
-snippet sontu
-	SetOnTouch(${1:callback})
-snippet sontudo
-	SetOnTouchDown(${1:callback})
-snippet sontumo
-	SetOnTouchMove(${1:callback})
-snippet sontuup
-	SetOnTouchUp(${1:callback)}
-snippet rls
-	Release()
+
